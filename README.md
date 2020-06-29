@@ -1,4 +1,4 @@
-# Face_Recognition
+# Face_Recognition_ID
 Face Recognition with Cascade Classifier
 
 NB: Karena kurangnya dataset maka anda dapat menggunakan dataset anda sendiri dan sedikit mengubah program(folder dataset)
